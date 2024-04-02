@@ -7,6 +7,6 @@ An iOS app which pulls weather data and displays rain density as a heatmap over 
 ![ui](backend/LandingPage/img/HM.jpg)
 
 # Report Disturbance
-![ss](backend/LandingPage/img/ss.jpg)
+![ss](backend/LandingPage/img/SS.jpg)
 
 
